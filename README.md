@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ktarinads!
-- 👀 I’m interested in ... Backend, Mobile and AI!
+- 👀 I’m interested in ... Backend, Mobile and Linux!
 - 🌱 I’m currently learning ... Flutter! & Java! & Python!
 - 📫 How to reach me ... [gmail]
 
