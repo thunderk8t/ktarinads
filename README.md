@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ktarinads!
-- 👀 I’m interested in ... Backend, Mobile and Linux!
-- 🌱 I’m currently learning ... Flutter! & Java! & Python!
+- 👋 Hi, I'm Catarina @thunderk8!
+- 👀 I’m interested in ... Backend! & Linux!
+- 🌱 I’m currently learning ... Java! & Python!
 - 📫 How to reach me ... [gmail]
 
 [gmail]: mailto:ktarinads@gmail.com
